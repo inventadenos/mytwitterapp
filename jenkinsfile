@@ -2,7 +2,7 @@ def registry = 'https://valaxy02.jfrog.io'
 pipeline{
     agent {
         node {
-            label "valaxy"
+            label "ufuoma"
         }
     }
     environment {
